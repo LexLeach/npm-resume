@@ -1,0 +1,21 @@
+{
+	"name": "Lex Leach",
+	"website": "",
+	"linkedIn": "https://www.linkedin.com/in/tyler-zander-leach-b1529a102/",
+	"github": "lexleach",
+	"email": "lex.leach.404@gmail.com",
+	"resume": "",
+	"proficientTechnologies": [
+		"forgetting": [",", ";", "()", "{}"],
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"React",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django"
+	]
+}
