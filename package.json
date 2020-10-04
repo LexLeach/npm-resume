@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/LexLeach/npm-resume#readme",
   "bin": {
-	 "start": "./index.js"
-  },
+    "start": "./index.js"
+  }
 }
